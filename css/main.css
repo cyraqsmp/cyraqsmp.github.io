@@ -138,7 +138,7 @@ a:hover {
 
 /* Header */
 #head {
-	background-image: url("https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&h=800&q=80");
+	background-image: url("https://assets.badlion.net/blog/minecraft-backgrounds/taiga-village.webp");
 	margin: 0;
 	padding: 222px 0px 222px 0px;
 	text-align: center;
@@ -211,13 +211,13 @@ a:hover {
 
 /* Banner Sections */
 #banner {
-	background-image: url("https://images.unsplash.com/photo-1531315630201-bb15abeb1653?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&h=600&q=80");
+	background-image: url("https://assets.badlion.net/blog/minecraft-backgrounds/minecraft-tower.webp");
 	padding: 100px 0px 100px 0px;
 	text-align: center;
 }
 
 #banner2 {
-	background-image: url("https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&h=600&q=80");
+	background-image: url("https://assets.badlion.net/blog/minecraft-backgrounds/netherite.webp");
 	padding: 100px 0px 100px 0px;
 	text-align: center;
 }
